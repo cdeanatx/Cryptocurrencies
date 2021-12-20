@@ -130,3 +130,6 @@ dmypy.json
 
 # Data files
 *.csv
+
+# Exploration content
+test_book.ipynb
